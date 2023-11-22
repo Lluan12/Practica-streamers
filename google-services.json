@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "990476032089",
+    "project_id": "dam-u3-19400591",
+    "storage_bucket": "dam-u3-19400591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990476032089:android:e4354741ee62b3b3803948",
+        "android_client_info": {
+          "package_name": "com.example.dam_u3_practica_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_OsWl49NeyZBIy9sqiSJhdfRKhwveSyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990476032089:android:a176cc5c8ef54a6c803948",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_ejercicio4_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_OsWl49NeyZBIy9sqiSJhdfRKhwveSyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990476032089:android:402ada5ede5e6acd803948",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_practica2_coleccionfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_OsWl49NeyZBIy9sqiSJhdfRKhwveSyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
